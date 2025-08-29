@@ -68,9 +68,9 @@ const currently = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syve.intech@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](lmbsumatra.vercel.app)
-  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syve.intech@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lmbsumatra.vercel.app)
+
   *Always open to collaborating on interesting projects and innovative ideas!*
   
 </div>
@@ -78,13 +78,6 @@ const currently = {
 ---
 
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ---
-  
-  ![](https://komarev.com/ghpvc/?username=lmbsumatra&color=brightgreen&style=flat-square&label=Profile+Views)
   
   *Thanks for visiting! ⭐ Star some repositories if you find them interesting!*
   
