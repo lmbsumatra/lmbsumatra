@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Missy Sumatra
+# 👋 Hello! I'm Missy
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   
   *Building digital experiences one line of code at a time*
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+fullstack+developer;Always+learning+new+technologies;Let's+build+something+amazing+together!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+fullstack+developer;Always+learning+new+technologies;Let's+build+something+amazing+together!)
   
 </div>
 
@@ -15,8 +15,8 @@
 ## 🎯 What I'm Up To
 
 ```javascript
-const missy = {
-    currentFocus: "Building my portfolio",
+const currently = {
+    currentFocus: "Upskilling",
     learning: ["C# frameworks", "Advanced React patterns"],
     askMeAbout: ["ReactJS", "NodeJS", "ExpressJS", "Full-stack development"],
     funFact: "I think I'm gonna be a comedian 😄",
@@ -69,7 +69,7 @@ const missy = {
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syve.intech@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](lmbsumatra.vercel.app)
   
   *Always open to collaborating on interesting projects and innovative ideas!*
   
