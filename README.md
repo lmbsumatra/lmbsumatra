@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ** Fullstack Developer from the Philippines 🇵🇭**
+  **Fullstack Developer from the Philippines 🇵🇭**
   
   *Building digital experiences one line of code at a time*
   
